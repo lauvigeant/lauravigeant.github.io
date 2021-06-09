@@ -69,3 +69,6 @@ align-items: center;
   color: #F65746;
 }
 
+.menu {
+	display: flex;
+}
