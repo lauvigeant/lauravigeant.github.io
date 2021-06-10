@@ -15,14 +15,14 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	border: 10px solid #ffe268 ;
 	margin: 100px
 	padding: 30px ;
-	box-shadow: 10px 10px 10px white; 
+	box-shadow: 10px 10px 10px grey; 
 	border-radius: 10px;
 }
 
 .frameimg {
 	border : 10px solid #ffe268;
 	margin: 50px;
-	box-shadow: 10px 10px 10px white; 
+	box-shadow: 10px 10px 10px grey; 
 	border-radius: 10px;
 }
 
@@ -54,7 +54,7 @@ align-items: center;
 	width: 100px;
 }
 
-.navbar {
+.my-navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -78,8 +78,6 @@ align-items: center;
 .menu {
 	display: flex;
 }
-
-
 
 .btn-ghost {
   color: #FF790A;
@@ -122,5 +120,6 @@ align-items: center;
   background: linear-gradient(#FE3338, #FF8487);
   color: white;
 }
+
 
 
